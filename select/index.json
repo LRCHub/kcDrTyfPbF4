@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "FANTASIA",
+  "base_artist": "STUTS",
+  "createdAt": "2026-02-17T11:37:40.074236Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fantasia",
+      "artist": "Rolo Tomassi",
+      "has_synced": false,
+      "path": "select/01_Fantasia_Rolo_Tomassi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "4 My Man (feat. Fantasia)",
+      "artist": "Missy Elliott feat. Fantasia",
+      "has_synced": false,
+      "path": "select/02_4_My_Man_(feat._Fantasia)_Missy_Elliott_feat._Fantasia.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Isla de la Fantasia",
+      "artist": "Brujeria",
+      "has_synced": true,
+      "path": "select/03_Isla_de_la_Fantasia_Brujeria.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fantasia",
+      "artist": "Caustic Window",
+      "has_synced": false,
+      "path": "select/04_Fantasia_Caustic_Window.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fantasia Espanola",
+      "artist": "TNT",
+      "has_synced": false,
+      "path": "select/05_Fantasia_Espanola_TNT.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nymphomaniac Fantasia - Remastered",
+      "artist": "Nightwish",
+      "has_synced": false,
+      "path": "select/06_Nymphomaniac_Fantasia_-_Remastered_Nightwish.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nimphomaniac Fantasia",
+      "artist": "Nightwish",
+      "has_synced": true,
+      "path": "select/07_Nimphomaniac_Fantasia_Nightwish.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nymphomaniac Fantasia",
+      "artist": "Nightwish",
+      "has_synced": true,
+      "path": "select/08_Nymphomaniac_Fantasia_Nightwish.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nymphomaniac Fantasia",
+      "artist": "Nightwish",
+      "has_synced": true,
+      "path": "select/09_Nymphomaniac_Fantasia_Nightwish.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fantasia",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/10_Fantasia_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fantasia",
+      "artist": "Stratovarius",
+      "has_synced": false,
+      "path": "select/11_Fantasia_Stratovarius.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Candlelight Fantasia",
+      "artist": "Symphony X",
+      "has_synced": true,
+      "path": "select/12_Candlelight_Fantasia_Symphony_X.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FANTASIA (feat. 一十三十一)",
+      "artist": "STUTS, 一十三十一",
+      "has_synced": false,
+      "path": "select/pl_01_FANTASIA_(feat._一十三十一)_STUTS,_一十三十一.txt"
+    }
+  ]
+}
